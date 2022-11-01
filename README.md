@@ -1,6 +1,7 @@
 ### Flutter Todo App- GetX and GetStorage
 
 - Todo App with todo ListView page, edit task page and add task page.
+- Create, Read, Update and Delete tasks.
 - GetX  used for state management.
 - GetStorage used for local storage(Persistent, but not recommended for todo app type storage purpose, 
    best used for small quick storage solution like user info, etc).
