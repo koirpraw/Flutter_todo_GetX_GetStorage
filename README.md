@@ -23,6 +23,4 @@ https://user-images.githubusercontent.com/7278348/199395038-d85b9b91-6fea-4dcc-b
 </table>   
 
 ![HomePage](./project_assets/homepage.png)
-
 ![EditPage](./project_assets/edit_taskPage.png)|
- ![AddPage](./project_assets/taskComplete_checkbox.png).
