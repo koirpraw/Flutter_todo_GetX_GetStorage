@@ -19,8 +19,11 @@ https://user-images.githubusercontent.com/7278348/199395038-d85b9b91-6fea-4dcc-b
  <td><img width="258" alt="empty_homePage" src="https://user-images.githubusercontent.com/7278348/199395635-bf01ef26-f8fe-456d-8acd-9f57f37e4a38.png"></td>
  <td><img width="258" alt="todo_checked_List" src="https://user-images.githubusercontent.com/7278348/199395420-a5489dc6-1def-4de0-a5ea-1de18c837591.png"></td>
 <td><img width="258" alt="add_page" src="https://user-images.githubusercontent.com/7278348/199395392-eaf9b295-e944-4ea0-a31c-7b4dd7bc1e9f.png"></td>
- </tr>
+ <td><img width="258" alt="add_page" src="https://user-images.githubusercontent.com/7278348/199399936-216935b9-a91b-4bce-9e33-35e29e9de4e7.png"></td>
+   
+
+   </tr>
 </table>   
 
 ![HomePage](./project_assets/homepage.png)
-![EditPage](./project_assets/edit_taskPage.png)|
+
