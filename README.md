@@ -9,3 +9,15 @@
 - dismissible widget used for swipe to delete task.
 - snackbar used to show task deleted messages.
 
+
+
+# See Screenshots below:
+## ScreenShots
+- ![HomePage](./project_assets/homepage.png). 
+
+- ![List with Checked task](./project_assets/checked_item_List.png).
+
+- ![Empty_HomePage](./project_assets/empty_homepage.png).
+
+- ![EditPage](./project_assets/edit_taskPage.png).
+- ![AddPage](./project_assets/taskComplete_checkbox.png).
