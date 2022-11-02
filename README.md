@@ -13,15 +13,12 @@
 
 # See  quick Video & Screenshots below:
 
+https://user-images.githubusercontent.com/7278348/199395038-d85b9b91-6fea-4dcc-b534-ad213ab9d631.mp4![empty_homepage](https://user-images.githubusercontent.com/7278348/199395635-bf01ef26-f8fe-456d-8acd-9f57f37e4a38.png)
 
+![add_todo_screen](https://user-images.githubusercontent.com/7278348/199395392-eaf9b295-e944-4ea0-a31c-7b4dd7bc1e9f.png)
 
-https://user-images.githubusercontent.com/7278348/199395038-d85b9b91-6fea-4dcc-b534-ad213ab9d631.mp4
+<img width="258" alt="todo_checked_List" src="https://user-images.githubusercontent.com/7278348/199395420-a5489dc6-1def-4de0-a5ea-1de18c837591.png">
 
-
- ![Video](./project_assets/todo_Flow.mp4)
-
- 
-| :------------------------------------------------------------:  |  :--------------------------------------------|
-|![List with Checked task](./project_assets/checked_item_List.png) | ![HomePage](./project_assets/homepage.png)|
-|![Empty_HomePage](./project_assets/empty_homepage.png) | ![EditPage](./project_assets/edit_taskPage.png)|
+![HomePage](./project_assets/homepage.png)
+![Empty_HomePage](./project_assets/empty_homepage.png)  ![EditPage](./project_assets/edit_taskPage.png)|
  ![AddPage](./project_assets/taskComplete_checkbox.png).
