@@ -18,9 +18,9 @@
 
 -  
 
-- ![List with Checked task](./project_assets/checked_item_List.png).![HomePage](./project_assets/homepage.png).
+- ![List with Checked task](./project_assets/checked_item_List.png) | ![HomePage](./project_assets/homepage.png).
 
-- ![Empty_HomePage](./project_assets/empty_homepage.png). ![EditPage](./project_assets/edit_taskPage.png).
+- ![Empty_HomePage](./project_assets/empty_homepage.png) | ![EditPage](./project_assets/edit_taskPage.png).
 
 - 
 - ![AddPage](./project_assets/taskComplete_checkbox.png).
