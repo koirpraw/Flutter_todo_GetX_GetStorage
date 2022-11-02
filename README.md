@@ -15,15 +15,14 @@
 
 https://user-images.githubusercontent.com/7278348/199395038-d85b9b91-6fea-4dcc-b534-ad213ab9d631.mp4
 <table>
-<tr><td><img width="258" alt="empty_homePage" src="https://user-images.githubusercontent.com/7278348/199395635-bf01ef26-f8fe-456d-8acd-9f57f37e4a38.png"></td>
-
+<tr>
+ <td><img width="258" alt="empty_homePage" src="https://user-images.githubusercontent.com/7278348/199395635-bf01ef26-f8fe-456d-8acd-9f57f37e4a38.png"></td>
+ <td><img width="258" alt="todo_checked_List" src="https://user-images.githubusercontent.com/7278348/199395420-a5489dc6-1def-4de0-a5ea-1de18c837591.png"></td>
 <td><img width="258" alt="add_page" src="https://user-images.githubusercontent.com/7278348/199395392-eaf9b295-e944-4ea0-a31c-7b4dd7bc1e9f.png"></td>
-  
-
-<td><img width="258" alt="todo_checked_List" src="https://user-images.githubusercontent.com/7278348/199395420-a5489dc6-1def-4de0-a5ea-1de18c837591.png"></td>
-    </tr></table>
+ </tr>
+</table>   
 
 ![HomePage](./project_assets/homepage.png)
-![Empty_HomePage](./project_assets/empty_homepage.png) 
+
 ![EditPage](./project_assets/edit_taskPage.png)|
  ![AddPage](./project_assets/taskComplete_checkbox.png).
